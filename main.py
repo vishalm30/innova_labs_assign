@@ -1,7 +1,6 @@
 from audio_face import face_detection, audio_detection
 
 import cv2
-import multiprocessing
 
 
 # Open the video file
